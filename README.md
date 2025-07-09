@@ -6,7 +6,16 @@
 
 <p><strong>Bộ dữ liệu:</strong> Nhóm nghiên cứu đã chọn ra <strong>3.087 hình ảnh</strong> từ tập dữ liệu 
 <a href="https://www.kaggle.com/datasets/pacificrm/car-insurance-fraud-detection" target="_blank">“Car Insurance Fraud Detection”</a> trên nền tảng Kaggle.</p>
-
+<p>Cấu trúc của tập dữ liệu</p>
+Insurance-Fraud-Detection/
+│
+├── train/
+│   ├── Fake/
+│   └── Real/
+│
+└── test/
+    ├── Fake/
+    └── Real/
 <p><strong>Các mô hình được triển khai:</strong></p>
 <ul>
   <li>Mô hình sử dụng <em>ResNet50 cổ điển</em> kết hợp với <em>Class_weights</em></li>
