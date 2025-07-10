@@ -7,6 +7,16 @@
 <p> 🔬<strong>Lĩnh vực:</strong> Khoa học tự nhiên</p>
 <p> 💻<strong>Chuyên ngành:</strong> Công nghệ thông tin</p>
 
+<p> 👥 Thành viên nhóm</p>
+
+| STT | Họ và tên             
+|-----|-----------------------
+| 1   | Đinh Thị Quỳnh Anh    
+| 2   | Vũ Phương Anh    
+| 3   | Nguyễn Hoàng Long        
+| 4   | Lê Thị Thùy Linh        
+| 5   | Vũ Thị Khánh Linh    
+---
 <p>📂 <strong>Bộ dữ liệu:</strong> Nhóm nghiên cứu đã chọn ra <strong>3.087 hình ảnh</strong> từ tập dữ liệu 
 <a href="https://www.kaggle.com/datasets/pacificrm/car-insurance-fraud-detection" target="_blank">“Car Insurance Fraud Detection”</a> trên nền tảng Kaggle.</p>
 
