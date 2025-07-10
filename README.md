@@ -17,7 +17,14 @@
 | 4   | Lê Thị Thùy Linh        
 | 5   | Vũ Thị Khánh Linh    
 ---
-<p>🌐 Giới thiệu dự án </p>
+<p>🌐 <strong>Giới thiệu dự án</strong></p>
+
+Dự án này nhằm nghiên cứu và ứng dụng các mô hình học máy để **tự động phát hiện hình ảnh giả mạo** trong quy trình xử lý bồi thường bảo hiểm ô tô.  
+
+Nhóm tập trung triển khai các **kiến trúc học sâu hiện đại**, cụ thể là **ResNet50** và **ResNet50V2**, nhằm nâng cao độ chính xác và hiệu quả trong việc phát hiện các trường hợp gian lận thông qua hình ảnh.
+
+Bên cạnh việc tối ưu hóa mô hình, đề tài cũng chú trọng đến việc xử lý **bài toán mất cân bằng dữ liệu** – một thách thức phổ biến trong các hệ thống phát hiện gian lận, nơi số lượng hình ảnh gian lận thường rất ít so với dữ liệu hợp lệ.
+
 
 <p>📂 <strong>Bộ dữ liệu:</strong> Nhóm nghiên cứu đã chọn ra <strong>3.087 hình ảnh</strong> từ tập dữ liệu 
 <a href="https://www.kaggle.com/datasets/pacificrm/car-insurance-fraud-detection" target="_blank">“Car Insurance Fraud Detection”</a> trên nền tảng Kaggle.</p>
