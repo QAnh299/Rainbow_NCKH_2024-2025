@@ -17,6 +17,8 @@
 | 4   | Lê Thị Thùy Linh        
 | 5   | Vũ Thị Khánh Linh    
 ---
+<p>🌐 Giới thiệu dự án </p>
+
 <p>📂 <strong>Bộ dữ liệu:</strong> Nhóm nghiên cứu đã chọn ra <strong>3.087 hình ảnh</strong> từ tập dữ liệu 
 <a href="https://www.kaggle.com/datasets/pacificrm/car-insurance-fraud-detection" target="_blank">“Car Insurance Fraud Detection”</a> trên nền tảng Kaggle.</p>
 
