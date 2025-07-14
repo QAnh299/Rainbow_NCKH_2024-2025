@@ -7,7 +7,7 @@
 <p> 🔬<strong>Lĩnh vực:</strong> Khoa học tự nhiên</p>
 <p> 💻<strong>Chuyên ngành:</strong> Công nghệ thông tin</p>
 
-<p> 👥<strong> Thành viên nhóm</strong></p>
+<p> 👥<strong>Thành viên nhóm</strong></p>
 
 | STT | Họ và tên             
 |-----|-----------------------
@@ -37,6 +37,11 @@ Insurance-Fraud-Detection/
     ├── Fake/
     └── Real/
 </pre>
+<p>🏆<strong>Thành tựu:</strong></p>
+<ul>
+  <li>🥈 Giải Nhì cuộc thi Nghiên cứu Khoa học cấp Khoa Giải năm 2025</li>
+  <li>📢 Giải Khuyến Khích cuộc thi Nghiên cứu Khoa học cấp Trường năm 2025</li>
+</ul>
 
 <p>🧠 <strong>Các mô hình được triển khai:</strong></p>
 <ul>
