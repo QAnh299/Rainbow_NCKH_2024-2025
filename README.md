@@ -37,15 +37,14 @@ Insurance-Fraud-Detection/
     ├── Fake/
     └── Real/
 </pre>
-<p>🏆<strong>Thành tựu:</strong></p>
-<ul>
-  <li>🥈 Giải Nhì cuộc thi Nghiên cứu Khoa học cấp Khoa Giải năm 2025</li>
-  <li>📢 Giải Khuyến Khích cuộc thi Nghiên cứu Khoa học cấp Trường năm 2025</li>
-</ul>
-
 <p>🧠 <strong>Các mô hình được triển khai:</strong></p>
 <ul>
   <li> Mô hình sử dụng <em>ResNet50 cổ điển</em> kết hợp với <em>Class_weights</em></li>
   <li> Mô hình kết hợp <em>trích xuất đặc trưng từ ResNet50</em> với <em>Random Forest</em> và <em>SMOTE</em></li>
   <li> Mô hình sử dụng <em>ResNet50V2 cải tiến</em></li>
+</ul>
+<p>🏆<strong>Thành tựu:</strong></p>
+<ul>
+  <li> Giải Nhì cuộc thi Nghiên cứu Khoa học cấp Khoa năm 2025</li>
+  <li> Giải Khuyến Khích cuộc thi Nghiên cứu Khoa học cấp Trường năm 2025</li>
 </ul>
