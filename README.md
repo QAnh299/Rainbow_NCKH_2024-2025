@@ -7,7 +7,7 @@
 <p> 🔬<strong>Lĩnh vực:</strong> Khoa học tự nhiên</p>
 <p> 💻<strong>Chuyên ngành:</strong> Công nghệ thông tin</p>
 
-<p> 👥 Thành viên nhóm</p>
+<p> 👥 <strong>Thành viên nhóm</strong></p>
 
 | STT | Họ và tên             
 |-----|-----------------------
